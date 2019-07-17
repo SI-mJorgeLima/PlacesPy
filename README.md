@@ -1,4 +1,5 @@
 # PlacesPy
-*Development still in progress* 
+*IN PROGRESS, NOT FINISHED*  
+
 Place searching program developed with python/tkinter/google api  
 
